@@ -1,0 +1,535 @@
+state,county,candidate,party,total_votes,won,vote_percentage
+Florida,Alachua County,Joe Biden,DEM,89704,TRUE,63.76638517
+Florida,Alachua County,Donald Trump,REP,50972,FALSE,36.23361483
+Florida,Baker County,Donald Trump,REP,11911,TRUE,85.39575566
+Florida,Baker County,Joe Biden,DEM,2037,FALSE,14.60424434
+Florida,Bay County,Donald Trump,REP,66097,TRUE,72.07096204
+Florida,Bay County,Joe Biden,DEM,25614,FALSE,27.92903796
+Florida,Bradford County,Donald Trump,REP,10334,TRUE,76.58218467
+Florida,Bradford County,Joe Biden,DEM,3160,FALSE,23.41781533
+Florida,Brevard County,Donald Trump,REP,207883,TRUE,58.32332675
+Florida,Brevard County,Joe Biden,DEM,148549,FALSE,41.67667325
+Florida,Broward County,Joe Biden,DEM,618752,TRUE,64.98396805
+Florida,Broward County,Donald Trump,REP,333409,FALSE,35.01603195
+Florida,Calhoun County,Donald Trump,REP,5274,TRUE,81.35122628
+Florida,Calhoun County,Joe Biden,DEM,1209,FALSE,18.64877372
+Florida,Charlotte County,Donald Trump,REP,73243,TRUE,63.40506943
+Florida,Charlotte County,Joe Biden,DEM,42273,FALSE,36.59493057
+Florida,Citrus County,Donald Trump,REP,65352,TRUE,70.6936091
+Florida,Citrus County,Joe Biden,DEM,27092,FALSE,29.3063909
+Florida,Clay County,Donald Trump,REP,84480,TRUE,68.79646897
+Florida,Clay County,Joe Biden,DEM,38317,FALSE,31.20353103
+Florida,Collier County,Donald Trump,REP,128950,TRUE,62.42405759
+Florida,Collier County,Joe Biden,DEM,77621,FALSE,37.57594241
+Florida,Columbia County,Donald Trump,REP,23836,TRUE,72.78167939
+Florida,Columbia County,Joe Biden,DEM,8914,FALSE,27.21832061
+Florida,DeSoto County,Donald Trump,REP,8313,TRUE,66.12313077
+Florida,DeSoto County,Joe Biden,DEM,4259,FALSE,33.87686923
+Florida,Dixie County,Donald Trump,REP,6759,TRUE,83.19793205
+Florida,Dixie County,Joe Biden,DEM,1365,FALSE,16.80206795
+Florida,Duval County,Joe Biden,DEM,252556,TRUE,51.93227477
+Florida,Duval County,Donald Trump,REP,233762,FALSE,48.06772523
+Florida,Escambia County,Donald Trump,REP,96674,TRUE,57.68035178
+Florida,Escambia County,Joe Biden,DEM,70929,FALSE,42.31964822
+Florida,Flagler County,Donald Trump,REP,43043,TRUE,60.4502556
+Florida,Flagler County,Joe Biden,DEM,28161,FALSE,39.5497444
+Florida,Franklin County,Donald Trump,REP,4675,TRUE,68.80058867
+Florida,Franklin County,Joe Biden,DEM,2120,FALSE,31.19941133
+Florida,Gadsden County,Joe Biden,DEM,16153,TRUE,68.39275129
+Florida,Gadsden County,Donald Trump,REP,7465,FALSE,31.60724871
+Florida,Gilchrist County,Donald Trump,REP,7895,TRUE,82.28243877
+Florida,Gilchrist County,Joe Biden,DEM,1700,FALSE,17.71756123
+Florida,Glades County,Donald Trump,REP,3782,TRUE,73.19527772
+Florida,Glades County,Joe Biden,DEM,1385,FALSE,26.80472228
+Florida,Gulf County,Donald Trump,REP,6113,TRUE,75.48777476
+Florida,Gulf County,Joe Biden,DEM,1985,FALSE,24.51222524
+Florida,Hamilton County,Donald Trump,REP,3815,TRUE,66.02630668
+Florida,Hamilton County,Joe Biden,DEM,1963,FALSE,33.97369332
+Florida,Hardee County,Donald Trump,REP,6122,TRUE,72.70783848
+Florida,Hardee County,Joe Biden,DEM,2298,FALSE,27.29216152
+Florida,Hendry County,Donald Trump,REP,7906,TRUE,61.59719517
+Florida,Hendry County,Joe Biden,DEM,4929,FALSE,38.40280483
+Florida,Hernando County,Donald Trump,REP,70412,TRUE,65.23797611
+Florida,Hernando County,Joe Biden,DEM,37519,FALSE,34.76202389
+Florida,Highlands County,Donald Trump,REP,34873,TRUE,67.3081006
+Florida,Highlands County,Joe Biden,DEM,16938,FALSE,32.6918994
+Florida,Hillsborough County,Joe Biden,DEM,376367,TRUE,53.47907327
+Florida,Hillsborough County,Donald Trump,REP,327398,FALSE,46.52092673
+Florida,Holmes County,Donald Trump,REP,8080,TRUE,89.73789427
+Florida,Holmes County,Joe Biden,DEM,924,FALSE,10.26210573
+Florida,Indian River County,Donald Trump,REP,58872,TRUE,60.87100376
+Florida,Indian River County,Joe Biden,DEM,37844,FALSE,39.12899624
+Florida,Jackson County,Donald Trump,REP,15488,TRUE,69.59647704
+Florida,Jackson County,Joe Biden,DEM,6766,FALSE,30.40352296
+Florida,Jefferson County,Donald Trump,REP,4479,TRUE,53.47421203
+Florida,Jefferson County,Joe Biden,DEM,3897,FALSE,46.52578797
+Florida,Lafayette County,Donald Trump,REP,3128,TRUE,85.98130841
+Florida,Lafayette County,Joe Biden,DEM,510,FALSE,14.01869159
+Florida,Lake County,Donald Trump,REP,125859,TRUE,60.11491947
+Florida,Lake County,Joe Biden,DEM,83505,FALSE,39.88508053
+Florida,Lee County,Donald Trump,REP,233247,TRUE,59.66281443
+Florida,Lee County,Joe Biden,DEM,157695,FALSE,40.33718557
+Florida,Leon County,Joe Biden,DEM,103517,TRUE,64.3082562
+Florida,Leon County,Donald Trump,REP,57453,FALSE,35.6917438
+Florida,Levy County,Donald Trump,REP,16749,TRUE,72.96767448
+Florida,Levy County,Joe Biden,DEM,6205,FALSE,27.03232552
+Florida,Liberty County,Donald Trump,REP,2846,TRUE,80.39548023
+Florida,Liberty County,Joe Biden,DEM,694,FALSE,19.60451977
+Florida,Madison County,Donald Trump,REP,5576,TRUE,59.80907433
+Florida,Madison County,Joe Biden,DEM,3747,FALSE,40.19092567
+Florida,Manatee County,Donald Trump,REP,124987,TRUE,58.09214838
+Florida,Manatee County,Joe Biden,DEM,90166,FALSE,41.90785162
+Florida,Marion County,Donald Trump,REP,127826,TRUE,63.06664562
+Florida,Marion County,Joe Biden,DEM,74858,FALSE,36.93335438
+Florida,Martin County,Donald Trump,REP,61168,TRUE,62.37749972
+Florida,Martin County,Joe Biden,DEM,36893,FALSE,37.62250028
+Florida,Miami-Dade County,Joe Biden,DEM,617864,TRUE,53.69476065
+Florida,Miami-Dade County,Donald Trump,REP,532833,FALSE,46.30523935
+Florida,Monroe County,Donald Trump,REP,25693,TRUE,54.00639004
+Florida,Monroe County,Joe Biden,DEM,21881,FALSE,45.99360996
+Florida,Nassau County,Donald Trump,REP,42566,TRUE,73.22552899
+Florida,Nassau County,Joe Biden,DEM,15564,FALSE,26.77447101
+Florida,Okaloosa County,Donald Trump,REP,79798,TRUE,69.9700121
+Florida,Okaloosa County,Joe Biden,DEM,34248,FALSE,30.0299879
+Florida,Okeechobee County,Donald Trump,REP,11470,TRUE,72.32030265
+Florida,Okeechobee County,Joe Biden,DEM,4390,FALSE,27.67969735
+Florida,Orange County,Joe Biden,DEM,395014,TRUE,61.68123021
+Florida,Orange County,Donald Trump,REP,245398,FALSE,38.31876979
+Florida,Osceola County,Joe Biden,DEM,97297,TRUE,56.9731287
+Florida,Osceola County,Donald Trump,REP,73480,FALSE,43.0268713
+Florida,Palm Beach County,Joe Biden,DEM,433572,TRUE,56.4338922
+Florida,Palm Beach County,Donald Trump,REP,334711,FALSE,43.5661078
+Florida,Pasco County,Donald Trump,REP,179621,TRUE,60.13545635
+Florida,Pasco County,Joe Biden,DEM,119073,FALSE,39.86454365
+Florida,Pinellas County,Joe Biden,DEM,277450,TRUE,50.11207259
+Florida,Pinellas County,Donald Trump,REP,276209,FALSE,49.88792741
+Florida,Polk County,Donald Trump,REP,194586,TRUE,57.29268185
+Florida,Polk County,Joe Biden,DEM,145049,FALSE,42.70731815
+Florida,Putnam County,Donald Trump,REP,25514,TRUE,70.79159846
+Florida,Putnam County,Joe Biden,DEM,10527,FALSE,29.20840154
+Florida,St. Johns County,Donald Trump,REP,110946,TRUE,63.47170416
+Florida,St. Johns County,Joe Biden,DEM,63850,FALSE,36.52829584
+Florida,St. Lucie County,Donald Trump,REP,86831,TRUE,50.78786674
+Florida,St. Lucie County,Joe Biden,DEM,84137,FALSE,49.21213326
+Florida,Santa Rosa County,Donald Trump,REP,77385,TRUE,73.70210577
+Florida,Santa Rosa County,Joe Biden,DEM,27612,FALSE,26.29789423
+Florida,Sarasota County,Donald Trump,REP,148370,TRUE,55.26296186
+Florida,Sarasota County,Joe Biden,DEM,120110,FALSE,44.73703814
+Florida,Seminole County,Joe Biden,DEM,132528,TRUE,51.41347486
+Florida,Seminole County,Donald Trump,REP,125241,FALSE,48.58652514
+Florida,Sumter County,Donald Trump,REP,62761,TRUE,68.14292849
+Florida,Sumter County,Joe Biden,DEM,29341,FALSE,31.85707151
+Florida,Suwannee County,Donald Trump,REP,16410,TRUE,78.53553482
+Florida,Suwannee County,Joe Biden,DEM,4485,FALSE,21.46446518
+Florida,Taylor County,Donald Trump,REP,7751,TRUE,77.12437811
+Florida,Taylor County,Joe Biden,DEM,2299,FALSE,22.87562189
+Florida,Union County,Donald Trump,REP,5133,TRUE,82.97769156
+Florida,Union County,Joe Biden,DEM,1053,FALSE,17.02230844
+Florida,Volusia County,Donald Trump,REP,173821,TRUE,57.10357561
+Florida,Volusia County,Joe Biden,DEM,130575,FALSE,42.89642439
+Florida,Wakulla County,Donald Trump,REP,12874,TRUE,70.63923182
+Florida,Wakulla County,Joe Biden,DEM,5351,FALSE,29.36076818
+Florida,Walton County,Donald Trump,REP,32947,TRUE,76.11643756
+Florida,Walton County,Joe Biden,DEM,10338,FALSE,23.88356244
+Florida,Washington County,Donald Trump,REP,9876,TRUE,80.79849464
+Florida,Washington County,Joe Biden,DEM,2347,FALSE,19.20150536
+Michigan,Alcona County,Donald Trump,REP,4848,TRUE,69.35622318
+Michigan,Alcona County,Joe Biden,DEM,2142,FALSE,30.64377682
+Michigan,Alger County,Donald Trump,REP,3014,TRUE,59.48292875
+Michigan,Alger County,Joe Biden,DEM,2053,FALSE,40.51707125
+Michigan,Allegan County,Donald Trump,REP,41392,TRUE,62.86660288
+Michigan,Allegan County,Joe Biden,DEM,24449,FALSE,37.13339712
+Michigan,Alpena County,Donald Trump,REP,10686,TRUE,64.04171161
+Michigan,Alpena County,Joe Biden,DEM,6000,FALSE,35.95828839
+Michigan,Antrim County,Donald Trump,REP,9748,TRUE,62.05755029
+Michigan,Antrim County,Joe Biden,DEM,5960,FALSE,37.94244971
+Michigan,Arenac County,Donald Trump,REP,5928,TRUE,68.12227074
+Michigan,Arenac County,Joe Biden,DEM,2774,FALSE,31.87772926
+Michigan,Baraga County,Donald Trump,REP,2512,TRUE,62.95739348
+Michigan,Baraga County,Joe Biden,DEM,1478,FALSE,37.04260652
+Michigan,Barry County,Donald Trump,REP,23471,TRUE,66.55041397
+Michigan,Barry County,Joe Biden,DEM,11797,FALSE,33.44958603
+Michigan,Bay County,Donald Trump,REP,33125,TRUE,55.88265065
+Michigan,Bay County,Joe Biden,DEM,26151,FALSE,44.11734935
+Michigan,Benzie County,Donald Trump,REP,6601,TRUE,54.6395166
+Michigan,Benzie County,Joe Biden,DEM,5480,FALSE,45.3604834
+Michigan,Berrien County,Donald Trump,REP,43519,TRUE,53.75569747
+Michigan,Berrien County,Joe Biden,DEM,37438,FALSE,46.24430253
+Michigan,Branch County,Donald Trump,REP,14064,TRUE,69.54457796
+Michigan,Branch County,Joe Biden,DEM,6159,FALSE,30.45542204
+Michigan,Calhoun County,Donald Trump,REP,36221,TRUE,55.64072629
+Michigan,Calhoun County,Joe Biden,DEM,28877,FALSE,44.35927371
+Michigan,Cass County,Donald Trump,REP,16699,TRUE,64.6521352
+Michigan,Cass County,Joe Biden,DEM,9130,FALSE,35.3478648
+Michigan,Charlevoix County,Donald Trump,REP,9841,TRUE,58.64719905
+Michigan,Charlevoix County,Joe Biden,DEM,6939,FALSE,41.35280095
+Michigan,Cheboygan County,Donald Trump,REP,10186,TRUE,65.19874544
+Michigan,Cheboygan County,Joe Biden,DEM,5437,FALSE,34.80125456
+Michigan,Chippewa County,Donald Trump,REP,10681,TRUE,61.63656299
+Michigan,Chippewa County,Joe Biden,DEM,6648,FALSE,38.36343701
+Michigan,Clare County,Donald Trump,REP,10861,TRUE,67.62764633
+Michigan,Clare County,Joe Biden,DEM,5199,FALSE,32.37235367
+Michigan,Clinton County,Donald Trump,REP,25098,TRUE,53.32511792
+Michigan,Clinton County,Joe Biden,DEM,21968,FALSE,46.67488208
+Michigan,Crawford County,Donald Trump,REP,5087,TRUE,65.5625725
+Michigan,Crawford County,Joe Biden,DEM,2672,FALSE,34.4374275
+Michigan,Delta County,Donald Trump,REP,13207,TRUE,63.4555326
+Michigan,Delta County,Joe Biden,DEM,7606,FALSE,36.5444674
+Michigan,Dickinson County,Donald Trump,REP,9617,TRUE,66.96608871
+Michigan,Dickinson County,Joe Biden,DEM,4744,FALSE,33.03391129
+Michigan,Eaton County,Donald Trump,REP,31798,TRUE,50.39542292
+Michigan,Eaton County,Joe Biden,DEM,31299,FALSE,49.60457708
+Michigan,Emmet County,Donald Trump,REP,12135,TRUE,55.67279901
+Michigan,Emmet County,Joe Biden,DEM,9662,FALSE,44.32720099
+Michigan,Genesee County,Joe Biden,DEM,119390,TRUE,54.73994058
+Michigan,Genesee County,Donald Trump,REP,98714,FALSE,45.26005942
+Michigan,Gladwin County,Donald Trump,REP,9893,TRUE,68.62037872
+Michigan,Gladwin County,Joe Biden,DEM,4524,FALSE,31.37962128
+Michigan,Gogebic County,Donald Trump,REP,4600,TRUE,56.30354957
+Michigan,Gogebic County,Joe Biden,DEM,3570,FALSE,43.69645043
+Michigan,Grand Traverse County,Donald Trump,REP,30502,TRUE,51.53670694
+Michigan,Grand Traverse County,Joe Biden,DEM,28683,FALSE,48.46329306
+Michigan,Gratiot County,Donald Trump,REP,12102,TRUE,64.38946528
+Michigan,Gratiot County,Joe Biden,DEM,6693,FALSE,35.61053472
+Michigan,Hillsdale County,Donald Trump,REP,17037,TRUE,74.33246073
+Michigan,Hillsdale County,Joe Biden,DEM,5883,FALSE,25.66753927
+Michigan,Houghton County,Donald Trump,REP,10378,TRUE,57.24845543
+Michigan,Houghton County,Joe Biden,DEM,7750,FALSE,42.75154457
+Michigan,Huron County,Donald Trump,REP,12731,TRUE,69.8699303
+Michigan,Huron County,Joe Biden,DEM,5490,FALSE,30.1300697
+Michigan,Ingham County,Joe Biden,DEM,94212,TRUE,66.41616908
+Michigan,Ingham County,Donald Trump,REP,47639,FALSE,33.58383092
+Michigan,Ionia County,Donald Trump,REP,20657,TRUE,65.45725331
+Michigan,Ionia County,Joe Biden,DEM,10901,FALSE,34.54274669
+Michigan,Iosco County,Donald Trump,REP,9759,TRUE,64.4924663
+Michigan,Iosco County,Joe Biden,DEM,5373,FALSE,35.5075337
+Michigan,Iron County,Donald Trump,REP,4216,TRUE,62.8409599
+Michigan,Iron County,Joe Biden,DEM,2493,FALSE,37.1590401
+Michigan,Isabella County,Donald Trump,REP,14815,TRUE,51.28604563
+Michigan,Isabella County,Joe Biden,DEM,14072,FALSE,48.71395437
+Michigan,Jackson County,Donald Trump,REP,47372,TRUE,59.68727557
+Michigan,Jackson County,Joe Biden,DEM,31995,FALSE,40.31272443
+Michigan,Kalamazoo County,Joe Biden,DEM,83686,TRUE,59.55917415
+Michigan,Kalamazoo County,Donald Trump,REP,56823,FALSE,40.44082585
+Michigan,Kalkaska County,Donald Trump,REP,7436,TRUE,71.23970109
+Michigan,Kalkaska County,Joe Biden,DEM,3002,FALSE,28.76029891
+Michigan,Kent County,Joe Biden,DEM,187915,TRUE,53.13496731
+Michigan,Kent County,Donald Trump,REP,165741,FALSE,46.86503269
+Michigan,Keweenaw County,Donald Trump,REP,862,TRUE,56.19295958
+Michigan,Keweenaw County,Joe Biden,DEM,672,FALSE,43.80704042
+Michigan,Lake County,Donald Trump,REP,3946,TRUE,63.29804299
+Michigan,Lake County,Joe Biden,DEM,2288,FALSE,36.70195701
+Michigan,Lapeer County,Donald Trump,REP,35482,TRUE,68.43333526
+Michigan,Lapeer County,Joe Biden,DEM,16367,FALSE,31.56666474
+Michigan,Leelanau County,Joe Biden,DEM,8795,TRUE,52.63000419
+Michigan,Leelanau County,Donald Trump,REP,7916,FALSE,47.36999581
+Michigan,Lenawee County,Donald Trump,REP,31541,TRUE,60.12505004
+Michigan,Lenawee County,Joe Biden,DEM,20918,FALSE,39.87494996
+Michigan,Livingston County,Donald Trump,REP,76982,TRUE,61.48623824
+Michigan,Livingston County,Joe Biden,DEM,48220,FALSE,38.51376176
+Michigan,Luce County,Donald Trump,REP,2109,TRUE,71.46729922
+Michigan,Luce County,Joe Biden,DEM,842,FALSE,28.53270078
+Michigan,Mackinac County,Donald Trump,REP,4304,TRUE,62.05305652
+Michigan,Mackinac County,Joe Biden,DEM,2632,FALSE,37.94694348
+Michigan,Macomb County,Donald Trump,REP,263863,TRUE,54.09079262
+Michigan,Macomb County,Joe Biden,DEM,223952,FALSE,45.90920738
+Michigan,Manistee County,Donald Trump,REP,8321,TRUE,57.67258109
+Michigan,Manistee County,Joe Biden,DEM,6107,FALSE,42.32741891
+Michigan,Marquette County,Joe Biden,DEM,20465,TRUE,55.68555958
+Michigan,Marquette County,Donald Trump,REP,16286,FALSE,44.31444042
+Michigan,Mason County,Donald Trump,REP,10207,TRUE,60.00940678
+Michigan,Mason County,Joe Biden,DEM,6802,FALSE,39.99059322
+Michigan,Mecosta County,Donald Trump,REP,13267,TRUE,64.27187288
+Michigan,Mecosta County,Joe Biden,DEM,7375,FALSE,35.72812712
+Michigan,Menominee County,Donald Trump,REP,8117,TRUE,65.2859326
+Michigan,Menominee County,Joe Biden,DEM,4316,FALSE,34.7140674
+Michigan,Midland County,Donald Trump,REP,27675,TRUE,57.45515695
+Michigan,Midland County,Joe Biden,DEM,20493,FALSE,42.54484305
+Michigan,Missaukee County,Donald Trump,REP,6648,TRUE,77.1677307
+Michigan,Missaukee County,Joe Biden,DEM,1967,FALSE,22.8322693
+Michigan,Monroe County,Donald Trump,REP,52710,TRUE,61.51601797
+Michigan,Monroe County,Joe Biden,DEM,32975,FALSE,38.48398203
+Michigan,Montcalm County,Donald Trump,REP,21815,TRUE,69.21441716
+Michigan,Montcalm County,Joe Biden,DEM,9703,FALSE,30.78558284
+Michigan,Montmorency County,Donald Trump,REP,4171,TRUE,71.92619417
+Michigan,Montmorency County,Joe Biden,DEM,1628,FALSE,28.07380583
+Michigan,Muskegon County,Joe Biden,DEM,45643,TRUE,50.28091125
+Michigan,Muskegon County,Donald Trump,REP,45133,FALSE,49.71908875
+Michigan,Newaygo County,Donald Trump,REP,18857,TRUE,70.54620277
+Michigan,Newaygo County,Joe Biden,DEM,7873,FALSE,29.45379723
+Michigan,Oakland County,Joe Biden,DEM,434148,TRUE,57.11579371
+Michigan,Oakland County,Donald Trump,REP,325971,FALSE,42.88420629
+Michigan,Oceana County,Donald Trump,REP,8892,TRUE,64.26712923
+Michigan,Oceana County,Joe Biden,DEM,4944,FALSE,35.73287077
+Michigan,Ogemaw County,Donald Trump,REP,8253,TRUE,70.37005457
+Michigan,Ogemaw County,Joe Biden,DEM,3475,FALSE,29.62994543
+Michigan,Ontonagon County,Donald Trump,REP,2358,TRUE,62.89677247
+Michigan,Ontonagon County,Joe Biden,DEM,1391,FALSE,37.10322753
+Michigan,Osceola County,Donald Trump,REP,8928,TRUE,73.52989623
+Michigan,Osceola County,Joe Biden,DEM,3214,FALSE,26.47010377
+Michigan,Oscoda County,Donald Trump,REP,3466,TRUE,72.08818636
+Michigan,Oscoda County,Joe Biden,DEM,1342,FALSE,27.91181364
+Michigan,Otsego County,Donald Trump,REP,9779,TRUE,67.33920948
+Michigan,Otsego County,Joe Biden,DEM,4743,FALSE,32.66079052
+Michigan,Ottawa County,Donald Trump,REP,100913,TRUE,60.93117898
+Michigan,Ottawa County,Joe Biden,DEM,64705,FALSE,39.06882102
+Michigan,Presque Isle County,Donald Trump,REP,5342,TRUE,64.72797771
+Michigan,Presque Isle County,Joe Biden,DEM,2911,FALSE,35.27202229
+Michigan,Roscommon County,Donald Trump,REP,9670,TRUE,65.17929361
+Michigan,Roscommon County,Joe Biden,DEM,5166,FALSE,34.82070639
+Michigan,Saginaw County,Joe Biden,DEM,51088,TRUE,50.14871458
+Michigan,Saginaw County,Donald Trump,REP,50785,FALSE,49.85128542
+Michigan,St. Clair County,Donald Trump,REP,59185,TRUE,65.36312232
+Michigan,St. Clair County,Joe Biden,DEM,31363,FALSE,34.63687768
+Michigan,St. Joseph County,Donald Trump,REP,18127,TRUE,66.18350433
+Michigan,St. Joseph County,Joe Biden,DEM,9262,FALSE,33.81649567
+Michigan,Sanilac County,Donald Trump,REP,16194,TRUE,73.07761733
+Michigan,Sanilac County,Joe Biden,DEM,5966,FALSE,26.92238267
+Michigan,Schoolcraft County,Donald Trump,REP,3090,TRUE,66.03975208
+Michigan,Schoolcraft County,Joe Biden,DEM,1589,FALSE,33.96024792
+Michigan,Shiawassee County,Donald Trump,REP,23149,TRUE,60.13352037
+Michigan,Shiawassee County,Joe Biden,DEM,15347,FALSE,39.86647963
+Michigan,Tuscola County,Donald Trump,REP,20297,TRUE,69.96794098
+Michigan,Tuscola County,Joe Biden,DEM,8712,FALSE,30.03205902
+Michigan,Van Buren County,Donald Trump,REP,21591,TRUE,56.23534927
+Michigan,Van Buren County,Joe Biden,DEM,16803,FALSE,43.76465073
+Michigan,Washtenaw County,Joe Biden,DEM,157136,TRUE,73.64242632
+Michigan,Washtenaw County,Donald Trump,REP,56241,FALSE,26.35757368
+Michigan,Wayne County,Joe Biden,DEM,597170,TRUE,69.29953129
+Michigan,Wayne County,Donald Trump,REP,264553,FALSE,30.70046871
+Michigan,Wexford County,Donald Trump,REP,12102,TRUE,67.45819398
+Michigan,Wexford County,Joe Biden,DEM,5838,FALSE,32.54180602
+Nevada,Churchill County,Donald Trump,REP,9372,TRUE,75.4407148
+Nevada,Churchill County,Joe Biden,DEM,3051,FALSE,24.5592852
+Nevada,Clark County,Joe Biden,DEM,521852,TRUE,54.77139577
+Nevada,Clark County,Donald Trump,REP,430930,FALSE,45.22860423
+Nevada,Douglas County,Donald Trump,REP,21630,TRUE,65.1486401
+Nevada,Douglas County,Joe Biden,DEM,11571,FALSE,34.8513599
+Nevada,Elko County,Donald Trump,REP,16741,TRUE,78.60362475
+Nevada,Elko County,Joe Biden,DEM,4557,FALSE,21.39637525
+Nevada,Esmeralda County,Donald Trump,REP,400,TRUE,84.38818565
+Nevada,Esmeralda County,Joe Biden,DEM,74,FALSE,15.61181435
+Nevada,Eureka County,Donald Trump,REP,895,TRUE,89.5
+Nevada,Eureka County,Joe Biden,DEM,105,FALSE,10.5
+Nevada,Humboldt County,Donald Trump,REP,5877,TRUE,77.67644726
+Nevada,Humboldt County,Joe Biden,DEM,1689,FALSE,22.32355274
+Nevada,Lander County,Donald Trump,REP,2198,TRUE,81.58871566
+Nevada,Lander County,Joe Biden,DEM,496,FALSE,18.41128434
+Nevada,Lincoln County,Donald Trump,REP,2067,TRUE,86.23279099
+Nevada,Lincoln County,Joe Biden,DEM,330,FALSE,13.76720901
+Nevada,Lyon County,Donald Trump,REP,20914,TRUE,71.16752305
+Nevada,Lyon County,Joe Biden,DEM,8473,FALSE,28.83247695
+Nevada,Mineral County,Donald Trump,REP,1423,TRUE,63.18827709
+Nevada,Mineral County,Joe Biden,DEM,829,FALSE,36.81172291
+Nevada,Nye County,Donald Trump,REP,17528,TRUE,70.63185042
+Nevada,Nye County,Joe Biden,DEM,7288,FALSE,29.36814958
+Nevada,Pershing County,Donald Trump,REP,1731,TRUE,75.98770852
+Nevada,Pershing County,Joe Biden,DEM,547,FALSE,24.01229148
+Nevada,Storey County,Donald Trump,REP,1908,TRUE,67.90035587
+Nevada,Storey County,Joe Biden,DEM,902,FALSE,32.09964413
+Nevada,Washoe County,Joe Biden,DEM,128128,TRUE,52.32106106
+Nevada,Washoe County,Donald Trump,REP,116760,FALSE,47.67893894
+Nevada,White Pine County,Donald Trump,REP,3403,TRUE,79.84514313
+Nevada,White Pine County,Joe Biden,DEM,859,FALSE,20.15485687
+Nevada,Carson City,Donald Trump,REP,16113,TRUE,55.85482529
+Nevada,Carson City,Joe Biden,DEM,12735,FALSE,44.14517471
+North Carolina,Alamance County,Donald Trump,REP,46056,TRUE,54.2594927
+North Carolina,Alamance County,Joe Biden,DEM,38825,FALSE,45.7405073
+North Carolina,Alexander County,Donald Trump,REP,15888,TRUE,79.30913992
+North Carolina,Alexander County,Joe Biden,DEM,4145,FALSE,20.69086008
+North Carolina,Alleghany County,Donald Trump,REP,4527,TRUE,75.28687843
+North Carolina,Alleghany County,Joe Biden,DEM,1486,FALSE,24.71312157
+North Carolina,Anson County,Joe Biden,DEM,5789,TRUE,52.10621062
+North Carolina,Anson County,Donald Trump,REP,5321,FALSE,47.89378938
+North Carolina,Ashe County,Donald Trump,REP,11451,TRUE,73.33333333
+North Carolina,Ashe County,Joe Biden,DEM,4164,FALSE,26.66666667
+North Carolina,Avery County,Donald Trump,REP,7172,TRUE,76.59938054
+North Carolina,Avery County,Joe Biden,DEM,2191,FALSE,23.40061946
+North Carolina,Beaufort County,Donald Trump,REP,16437,TRUE,63.04948216
+North Carolina,Beaufort County,Joe Biden,DEM,9633,FALSE,36.95051784
+North Carolina,Bertie County,Joe Biden,DEM,5939,TRUE,60.87535875
+North Carolina,Bertie County,Donald Trump,REP,3817,FALSE,39.12464125
+North Carolina,Bladen County,Donald Trump,REP,9676,TRUE,56.91095165
+North Carolina,Bladen County,Joe Biden,DEM,7326,FALSE,43.08904835
+North Carolina,Brunswick County,Donald Trump,REP,55850,TRUE,62.6401974
+North Carolina,Brunswick County,Joe Biden,DEM,33310,FALSE,37.3598026
+North Carolina,Buncombe County,Joe Biden,DEM,96515,TRUE,60.72913979
+North Carolina,Buncombe County,Donald Trump,REP,62412,FALSE,39.27086021
+North Carolina,Burke County,Donald Trump,REP,31019,TRUE,70.27890432
+North Carolina,Burke County,Joe Biden,DEM,13118,FALSE,29.72109568
+North Carolina,Cabarrus County,Donald Trump,REP,63237,TRUE,54.79856845
+North Carolina,Cabarrus County,Joe Biden,DEM,52162,FALSE,45.20143155
+North Carolina,Caldwell County,Donald Trump,REP,32119,TRUE,75.81673119
+North Carolina,Caldwell County,Joe Biden,DEM,10245,FALSE,24.18326881
+North Carolina,Camden County,Donald Trump,REP,4312,TRUE,73.72200376
+North Carolina,Camden County,Joe Biden,DEM,1537,FALSE,26.27799624
+North Carolina,Carteret County,Donald Trump,REP,30028,TRUE,71.28985542
+North Carolina,Carteret County,Joe Biden,DEM,12093,FALSE,28.71014458
+North Carolina,Caswell County,Donald Trump,REP,7089,TRUE,59.32714035
+North Carolina,Caswell County,Joe Biden,DEM,4860,FALSE,40.67285965
+North Carolina,Catawba County,Donald Trump,REP,56588,TRUE,68.77742261
+North Carolina,Catawba County,Joe Biden,DEM,25689,FALSE,31.22257739
+North Carolina,Chatham County,Joe Biden,DEM,26787,TRUE,55.83765868
+North Carolina,Chatham County,Donald Trump,REP,21186,FALSE,44.16234132
+North Carolina,Cherokee County,Donald Trump,REP,12628,TRUE,77.89772377
+North Carolina,Cherokee County,Joe Biden,DEM,3583,FALSE,22.10227623
+North Carolina,Chowan County,Donald Trump,REP,4471,TRUE,57.92951542
+North Carolina,Chowan County,Joe Biden,DEM,3247,FALSE,42.07048458
+North Carolina,Clay County,Donald Trump,REP,5112,TRUE,75.05505799
+North Carolina,Clay County,Joe Biden,DEM,1699,FALSE,24.94494201
+North Carolina,Cleveland County,Donald Trump,REP,33798,TRUE,66.5931078
+North Carolina,Cleveland County,Joe Biden,DEM,16955,FALSE,33.4068922
+North Carolina,Columbus County,Donald Trump,REP,16832,TRUE,64.05358094
+North Carolina,Columbus County,Joe Biden,DEM,9446,FALSE,35.94641906
+North Carolina,Craven County,Donald Trump,REP,31032,TRUE,59.47106171
+North Carolina,Craven County,Joe Biden,DEM,21148,FALSE,40.52893829
+North Carolina,Cumberland County,Joe Biden,DEM,84469,TRUE,58.45565083
+North Carolina,Cumberland County,Donald Trump,REP,60032,FALSE,41.54434917
+North Carolina,Currituck County,Donald Trump,REP,11657,TRUE,73.53646228
+North Carolina,Currituck County,Joe Biden,DEM,4195,FALSE,26.46353772
+North Carolina,Dare County,Donald Trump,REP,13938,TRUE,58.38150289
+North Carolina,Dare County,Joe Biden,DEM,9936,FALSE,41.61849711
+North Carolina,Davidson County,Donald Trump,REP,64658,TRUE,74.06923729
+North Carolina,Davidson County,Joe Biden,DEM,22636,FALSE,25.93076271
+North Carolina,Davie County,Donald Trump,REP,18228,TRUE,73.08447937
+North Carolina,Davie County,Joe Biden,DEM,6713,FALSE,26.91552063
+North Carolina,Duplin County,Donald Trump,REP,13793,TRUE,61.1391844
+North Carolina,Duplin County,Joe Biden,DEM,8767,FALSE,38.8608156
+North Carolina,Durham County,Joe Biden,DEM,144688,TRUE,81.67679949
+North Carolina,Durham County,Donald Trump,REP,32459,FALSE,18.32320051
+North Carolina,Edgecombe County,Joe Biden,DEM,16089,TRUE,63.60545562
+North Carolina,Edgecombe County,Donald Trump,REP,9206,FALSE,36.39454438
+North Carolina,Forsyth County,Joe Biden,DEM,113033,TRUE,57.05942038
+North Carolina,Forsyth County,Donald Trump,REP,85064,FALSE,42.94057962
+North Carolina,Franklin County,Donald Trump,REP,20901,TRUE,56.82707993
+North Carolina,Franklin County,Joe Biden,DEM,15879,FALSE,43.17292007
+North Carolina,Gaston County,Donald Trump,REP,73033,TRUE,64.06853112
+North Carolina,Gaston County,Joe Biden,DEM,40959,FALSE,35.93146888
+North Carolina,Gates County,Donald Trump,REP,3367,TRUE,56.94233046
+North Carolina,Gates County,Joe Biden,DEM,2546,FALSE,43.05766954
+North Carolina,Graham County,Donald Trump,REP,3710,TRUE,80.3900325
+North Carolina,Graham County,Joe Biden,DEM,905,FALSE,19.6099675
+North Carolina,Granville County,Donald Trump,REP,16647,TRUE,53.33525567
+North Carolina,Granville County,Joe Biden,DEM,14565,FALSE,46.66474433
+North Carolina,Greene County,Donald Trump,REP,4874,TRUE,55.98437859
+North Carolina,Greene County,Joe Biden,DEM,3832,FALSE,44.01562141
+North Carolina,Guilford County,Joe Biden,DEM,173086,TRUE,61.73264855
+North Carolina,Guilford County,Donald Trump,REP,107294,FALSE,38.26735145
+North Carolina,Halifax County,Joe Biden,DEM,15545,TRUE,60.66341463
+North Carolina,Halifax County,Donald Trump,REP,10080,FALSE,39.33658537
+North Carolina,Harnett County,Donald Trump,REP,35177,TRUE,61.42308364
+North Carolina,Harnett County,Joe Biden,DEM,22093,FALSE,38.57691636
+North Carolina,Haywood County,Donald Trump,REP,22834,TRUE,63.4665629
+North Carolina,Haywood County,Joe Biden,DEM,13144,FALSE,36.5334371
+North Carolina,Henderson County,Donald Trump,REP,40032,TRUE,59.53333432
+North Carolina,Henderson County,Joe Biden,DEM,27211,FALSE,40.46666568
+North Carolina,Hertford County,Joe Biden,DEM,7097,TRUE,67.10476551
+North Carolina,Hertford County,Donald Trump,REP,3479,FALSE,32.89523449
+North Carolina,Hoke County,Joe Biden,DEM,11804,TRUE,55.52994308
+North Carolina,Hoke County,Donald Trump,REP,9453,FALSE,44.47005692
+North Carolina,Hyde County,Donald Trump,REP,1418,TRUE,57.5487013
+North Carolina,Hyde County,Joe Biden,DEM,1046,FALSE,42.4512987
+North Carolina,Iredell County,Donald Trump,REP,67010,TRUE,66.41360582
+North Carolina,Iredell County,Joe Biden,DEM,33888,FALSE,33.58639418
+North Carolina,Jackson County,Donald Trump,REP,11356,TRUE,54.2130138
+North Carolina,Jackson County,Joe Biden,DEM,9591,FALSE,45.7869862
+North Carolina,Johnston County,Donald Trump,REP,68353,TRUE,62.36018611
+North Carolina,Johnston County,Joe Biden,DEM,41257,FALSE,37.63981389
+North Carolina,Jones County,Donald Trump,REP,3280,TRUE,59.88679934
+North Carolina,Jones County,Joe Biden,DEM,2197,FALSE,40.11320066
+North Carolina,Lee County,Donald Trump,REP,16469,TRUE,57.55976513
+North Carolina,Lee County,Joe Biden,DEM,12143,FALSE,42.44023487
+North Carolina,Lenoir County,Donald Trump,REP,14590,TRUE,51.74676361
+North Carolina,Lenoir County,Joe Biden,DEM,13605,FALSE,48.25323639
+North Carolina,Lincoln County,Donald Trump,REP,36341,TRUE,73.24599415
+North Carolina,Lincoln County,Joe Biden,DEM,13274,FALSE,26.75400585
+North Carolina,McDowell County,Donald Trump,REP,16883,TRUE,74.32533568
+North Carolina,McDowell County,Joe Biden,DEM,5832,FALSE,25.67466432
+North Carolina,Macon County,Donald Trump,REP,14211,TRUE,69.52203904
+North Carolina,Macon County,Joe Biden,DEM,6230,FALSE,30.47796096
+North Carolina,Madison County,Donald Trump,REP,7979,TRUE,61.94875776
+North Carolina,Madison County,Joe Biden,DEM,4901,FALSE,38.05124224
+North Carolina,Martin County,Donald Trump,REP,6532,TRUE,52.49537893
+North Carolina,Martin County,Joe Biden,DEM,5911,FALSE,47.50462107
+North Carolina,Mecklenburg County,Joe Biden,DEM,378107,TRUE,67.84403159
+North Carolina,Mecklenburg County,Donald Trump,REP,179211,FALSE,32.15596841
+North Carolina,Mitchell County,Donald Trump,REP,7090,TRUE,79.1559674
+North Carolina,Mitchell County,Joe Biden,DEM,1867,FALSE,20.8440326
+North Carolina,Montgomery County,Donald Trump,REP,8411,TRUE,66.03077406
+North Carolina,Montgomery County,Joe Biden,DEM,4327,FALSE,33.96922594
+North Carolina,Moore County,Donald Trump,REP,36764,TRUE,63.88961299
+North Carolina,Moore County,Joe Biden,DEM,20779,FALSE,36.11038701
+North Carolina,Nash County,Joe Biden,DEM,25947,TRUE,50.11588828
+North Carolina,Nash County,Donald Trump,REP,25827,FALSE,49.88411172
+North Carolina,New Hanover County,Joe Biden,DEM,66138,TRUE,51.08404328
+North Carolina,New Hanover County,Donald Trump,REP,63331,FALSE,48.91595672
+North Carolina,Northampton County,Joe Biden,DEM,6069,TRUE,60.34002784
+North Carolina,Northampton County,Donald Trump,REP,3989,FALSE,39.65997216
+North Carolina,Onslow County,Donald Trump,REP,46078,TRUE,65.50380985
+North Carolina,Onslow County,Joe Biden,DEM,24266,FALSE,34.49619015
+North Carolina,Orange County,Joe Biden,DEM,63594,TRUE,75.91500537
+North Carolina,Orange County,Donald Trump,REP,20176,FALSE,24.08499463
+North Carolina,Pamlico County,Donald Trump,REP,4849,TRUE,64.12324782
+North Carolina,Pamlico County,Joe Biden,DEM,2713,FALSE,35.87675218
+North Carolina,Pasquotank County,Joe Biden,DEM,9832,TRUE,50.15814713
+North Carolina,Pasquotank County,Donald Trump,REP,9770,FALSE,49.84185287
+North Carolina,Pender County,Donald Trump,REP,21956,TRUE,65.19195938
+North Carolina,Pender County,Joe Biden,DEM,11723,FALSE,34.80804062
+North Carolina,Perquimans County,Donald Trump,REP,4903,TRUE,66.3015551
+North Carolina,Perquimans County,Joe Biden,DEM,2492,FALSE,33.6984449
+North Carolina,Person County,Donald Trump,REP,13184,TRUE,60.89888678
+North Carolina,Person County,Joe Biden,DEM,8465,FALSE,39.10111322
+North Carolina,Pitt County,Joe Biden,DEM,47252,TRUE,54.79509242
+North Carolina,Pitt County,Donald Trump,REP,38982,FALSE,45.20490758
+North Carolina,Polk County,Donald Trump,REP,7689,TRUE,62.98844925
+North Carolina,Polk County,Joe Biden,DEM,4518,FALSE,37.01155075
+North Carolina,Randolph County,Donald Trump,REP,56894,TRUE,78.46149603
+North Carolina,Randolph County,Joe Biden,DEM,15618,FALSE,21.53850397
+North Carolina,Richmond County,Donald Trump,REP,11830,TRUE,57.47182277
+North Carolina,Richmond County,Joe Biden,DEM,8754,FALSE,42.52817723
+North Carolina,Robeson County,Donald Trump,REP,27806,TRUE,59.38154017
+North Carolina,Robeson County,Joe Biden,DEM,19020,FALSE,40.61845983
+North Carolina,Rockingham County,Donald Trump,REP,31301,TRUE,66.18527055
+North Carolina,Rockingham County,Joe Biden,DEM,15992,FALSE,33.81472945
+North Carolina,Rowan County,Donald Trump,REP,49297,TRUE,68.07943544
+North Carolina,Rowan County,Joe Biden,DEM,23114,FALSE,31.92056456
+North Carolina,Rutherford County,Donald Trump,REP,24891,TRUE,73.15288309
+North Carolina,Rutherford County,Joe Biden,DEM,9135,FALSE,26.84711691
+North Carolina,Sampson County,Donald Trump,REP,17411,TRUE,61.35602777
+North Carolina,Sampson County,Joe Biden,DEM,10966,FALSE,38.64397223
+North Carolina,Scotland County,Donald Trump,REP,7473,TRUE,50.9789208
+North Carolina,Scotland County,Joe Biden,DEM,7186,FALSE,49.0210792
+North Carolina,Stanly County,Donald Trump,REP,25458,TRUE,75.79718343
+North Carolina,Stanly County,Joe Biden,DEM,8129,FALSE,24.20281657
+North Carolina,Stokes County,Donald Trump,REP,20142,TRUE,79.2118924
+North Carolina,Stokes County,Joe Biden,DEM,5286,FALSE,20.7881076
+North Carolina,Surry County,Donald Trump,REP,27538,TRUE,75.94804049
+North Carolina,Surry County,Joe Biden,DEM,8721,FALSE,24.05195951
+North Carolina,Swain County,Donald Trump,REP,4161,TRUE,59.94813427
+North Carolina,Swain County,Joe Biden,DEM,2780,FALSE,40.05186573
+North Carolina,Transylvania County,Donald Trump,REP,11636,TRUE,57.94820717
+North Carolina,Transylvania County,Joe Biden,DEM,8444,FALSE,42.05179283
+North Carolina,Tyrrell County,Donald Trump,REP,1044,TRUE,57.93562708
+North Carolina,Tyrrell County,Joe Biden,DEM,758,FALSE,42.06437292
+North Carolina,Union County,Donald Trump,REP,80382,TRUE,62.2599859
+North Carolina,Union County,Joe Biden,DEM,48725,FALSE,37.7400141
+North Carolina,Vance County,Joe Biden,DEM,12431,TRUE,59.70127749
+North Carolina,Vance County,Donald Trump,REP,8391,FALSE,40.29872251
+North Carolina,Wake County,Joe Biden,DEM,393336,TRUE,63.48911196
+North Carolina,Wake County,Donald Trump,REP,226197,FALSE,36.51088804
+North Carolina,Warren County,Joe Biden,DEM,6400,TRUE,63.04176517
+North Carolina,Warren County,Donald Trump,REP,3752,FALSE,36.95823483
+North Carolina,Washington County,Joe Biden,DEM,3396,TRUE,54.97814473
+North Carolina,Washington County,Donald Trump,REP,2781,FALSE,45.02185527
+North Carolina,Watauga County,Joe Biden,DEM,17122,TRUE,54.22987996
+North Carolina,Watauga County,Donald Trump,REP,14451,FALSE,45.77012004
+North Carolina,Wayne County,Donald Trump,REP,30709,TRUE,55.9118054
+North Carolina,Wayne County,Joe Biden,DEM,24215,FALSE,44.0881946
+North Carolina,Wilkes County,Donald Trump,REP,27592,TRUE,78.60296841
+North Carolina,Wilkes County,Joe Biden,DEM,7511,FALSE,21.39703159
+North Carolina,Wilson County,Joe Biden,DEM,20754,TRUE,51.45407215
+North Carolina,Wilson County,Donald Trump,REP,19581,FALSE,48.54592785
+North Carolina,Yadkin County,Donald Trump,REP,15933,TRUE,80.89459789
+North Carolina,Yadkin County,Joe Biden,DEM,3763,FALSE,19.10540211
+North Carolina,Yancey County,Donald Trump,REP,7516,TRUE,67.08318458
+North Carolina,Yancey County,Joe Biden,DEM,3688,FALSE,32.91681542
